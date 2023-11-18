@@ -1,0 +1,13 @@
+body{
+    font-family:  sans-serif;
+    text-align: center;
+    background-color: dee2e8;
+}
+.box{
+    margin-top: 15%;
+    background-color: #fff;
+    margin-left: 40%;
+    margin-right: 40%;
+    height: 200px;
+    box-shadow: 1px 1px 20px 0;
+}
